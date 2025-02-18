@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ES1-Demo-main.sln"
+    "dotnet.defaultSolution": "ES1_Brunet_Alexandre.sln"
 }
